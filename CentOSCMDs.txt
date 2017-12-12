@@ -1,0 +1,1 @@
+1- Packages : you can download packages with .rpm extension and install them with sudo yum install <package name>-
