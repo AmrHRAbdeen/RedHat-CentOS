@@ -1,1 +1,5 @@
-1- Packages : you can download packages with .rpm extension and install them with sudo yum install <package name>-
+1- Packages : you can download packages with .rpm extension and install them with: sudo yum install <package name>
+
+2- You may face a problem with installing packages , so you have to stop packagekit using: systemctl stop packagekit
+
+3-
