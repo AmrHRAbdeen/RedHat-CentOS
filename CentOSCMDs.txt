@@ -2,4 +2,5 @@
 
 2- You may face a problem with installing packages , so you have to stop packagekit using: systemctl stop packagekit
 
-3-
+3- If your company uses a proxy server , you may face a problem while uploading your app to the cloud ... so you have to change the env. variables of your OS ( assuming you have a Windows OS, so you have to add the https_proxy= URL or IP then the port if it is not 80 ex: https_proxy=192.168.1.1:8080)
+You can find the env. variable in Windows os in Advanced system settings.
